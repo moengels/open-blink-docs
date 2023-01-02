@@ -2,13 +2,15 @@
 [![OLS](https://img.shields.io/badge/-OLS-lightgrey)](https://openlifesci.org/)
 
 
-# Building a platform for open and reproducible super-resolution imaging hardware and analytical tools
+# Blink 2629
+## Building a platform for open and reproducible super-resolution imaging hardware and analytical tools
 Project outline of the OpenLifeScience - cohort 6 project "Building a platform for open and reproducible super-resolution imaging hardware and analytical tools" 
 
 We are creating an educational and connecting platform to bridge the gap between (super-resolution) microscopists and the broader public/non-microscopy labs to inspire interest into both optics and biophysics in future generations and make cutting-edge techniques more available to non-microscopy labs with eager contribution of the broader open microscopy community.
 
 ## Table of Contents
-- [Building a platform for open and reproducible super-resolution imaging hardware and analytical tools](#building-a-platform-for-open-and-reproducible-super-resolution-imaging-hardware-and-analytical-tools)
+- [Blink 2629](#blink-2629)
+  - [Building a platform for open and reproducible super-resolution imaging hardware and analytical tools](#building-a-platform-for-open-and-reproducible-super-resolution-imaging-hardware-and-analytical-tools)
   - [Table of Contents](#table-of-contents)
 - [:bookmark: Background](#bookmark-background)
 - [:arrow\_upper\_right: Canvas](#arrow_upper_right-canvas)
@@ -80,9 +82,9 @@ Protoype launch (week 14).
 We invite early- and mid-career researchers of various imaging experience to contribute to the project.
 This ranges from feedback regarding/creation of educational content to sharing of protocols, schematics and tipps in the setup and usage of various open microscope systems.
 
-Contributor Covenant (https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg) (CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Prerequisites
 
@@ -124,7 +126,7 @@ See also the list of contributors (https://github.com/your/project/contributors)
 
 # :notebook_with_decorative_cover: License
 
-This project is licensed under the MIT License - see the LICENSE (LICENSE) file for details.
+This project is licensed under the Creative Commons copyright licenses - see the LICENSE (LICENSE) file for details.
 
 # :gift_heart: Acknowledgments
 
