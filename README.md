@@ -2,7 +2,7 @@
 [![OLS](https://img.shields.io/badge/-OLS-lightgrey)](https://openlifesci.org/)
 
 
-# Blink 2629
+# Blink-2629
 ## Building a platform for open and reproducible super-resolution imaging hardware and analytical tools
 Project outline of the OpenLifeScience - cohort 6 project "Building a platform for open and reproducible super-resolution imaging hardware and analytical tools" 
 
