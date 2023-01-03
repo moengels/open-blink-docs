@@ -7,7 +7,7 @@
 
 
 ##  Contributing 
-We invite in researcehs of all research stages to contribute, most notably biologists and biophysicists that want to use super-resolution imaging techniques. 
+We invite in researchers of all stages to contribute, most notably biologists and biophysicists that want to use super-resolution imaging techniques as well as OME developers. 
 
 **General:**
 - We welcome researchers with all backgrounds and walks of life to contribute to any Stage (see above) of this project.   
@@ -22,3 +22,23 @@ We invite in researcehs of all research stages to contribute, most notably biolo
 - You can withdraw from the project at any time.        
 
 ## :arrow_upper_right:  Contributions by stage   
+
+### :two: Milestone 2 - Prototype Launch (week 10)
+- Leads - Create skeleton of the website with lab internal material including: 
+  - html, scss coding
+  - efficient website design
+- community - probe relevant material interesting for non-field scientists
+- leads, community - screening educational material openly available  
+
+
+### :three: Milestone 3 - Evaluation and Publish (week 15)
+- leads - monitoring website access 
+- leads - establish pipeline for error reporting and updating of material (retractions, additions, supplements)
+
+### :four: Milestone 4 - Maintenance and expansion (> week 15)
+- leads - invite creators of OME setups as contributors
+- 
+
+## :clap: Acknowledgements
+
+In this open science project, we are committed to acknowledging all participants who have contributed any amount of work and provided their details. These contributors will be recognized on the project page, report, presentations, and manuscript using a CRediT-style taxonomy. Additionally, we will maintain a detailed record of individual contributions to specific tasks within the stages of the project, which will be made publicly available as part of the open project materials. If at any time a contributor wishes to have their details removed or obscured, they may request this.

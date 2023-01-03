@@ -9,7 +9,7 @@ Project outline of the OpenLifeScience - cohort 6 project "Building a platform f
 We are creating an educational and connecting platform to bridge the gap between (super-resolution) microscopists and the broader public/non-microscopy labs to inspire interest into both optics and biophysics in future generations and make cutting-edge techniques more available to non-microscopy labs with eager contribution of the broader open microscopy community.
 
 ## Table of Contents
-- [Blink 2629](#blink-2629)
+- [Blink-2629](#blink-2629)
   - [Building a platform for open and reproducible super-resolution imaging hardware and analytical tools](#building-a-platform-for-open-and-reproducible-super-resolution-imaging-hardware-and-analytical-tools)
   - [Table of Contents](#table-of-contents)
 - [:bookmark: Background](#bookmark-background)
@@ -19,6 +19,7 @@ We are creating an educational and connecting platform to bridge the gap between
   - [:one: Milestone 1 - Planning (week 6)](#one-milestone-1---planning-week-6)
   - [:two: Milestone 2 - Prototype Launch (week 10)](#two-milestone-2---prototype-launch-week-10)
   - [:three: Milestone 3 - Evaluation and Publish (week 15)](#three-milestone-3---evaluation-and-publish-week-15)
+  - [:four: Milestone 4 - Maintenance and expansion (\> week 15)](#four-milestone-4---maintenance-and-expansion--week-15)
   - [:grey\_question: Status](#grey_question-status)
   - [:hammer\_and\_wrench: Immediate issues](#hammer_and_wrench-immediate-issues)
 - [:neckbeard: Contribution](#neckbeard-contribution)
@@ -68,6 +69,10 @@ We also aim at an interactive feature on the platform to encourage microscopy us
 - [ ] Analyze the visitor numbers and profiles
 - [ ] Establish long-term maintainence scheme of the site
 
+## :four: Milestone 4 - Maintenance and expansion (> week 15)
+- [ ] Add microscope systems from different labs (with public outreach for support)
+- [ ] Establish educational material based no community feedback 
+
 ## :grey_question: Status
 
 Protoype launch (week 14). 
@@ -114,7 +119,7 @@ until finished
 
 # :mortar_board: Code of conduct
 
-This project and everyone participating in it is governed by the Code of Conduct (CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 
 # :writing_hand: Authors
@@ -122,7 +127,7 @@ This project and everyone participating in it is governed by the Code of Conduct
 - Moritz Engelhardt - Initial work, contributions - [mo_engels](https://github.com/mo_engels)
 - Ran Huo - Initial work, contributions - [r-huo](https://github.com/r-huo)
 
-See also the list of contributors (https://github.com/your/project/contributors) who participated in this project.
+See also the list of contributors who participated in this project once its outlined [here](contributors.md)
 
 # :notebook_with_decorative_cover: License
 
